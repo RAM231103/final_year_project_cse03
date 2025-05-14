@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "443615155767",
+    "project_id": "legal-assistant-chatbot-20bfa",
+    "storage_bucket": "legal-assistant-chatbot-20bfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443615155767:android:52a1374f01891bdb8991b2",
+        "android_client_info": {
+          "package_name": "com.docuassist.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443615155767-8qutj0frdnqcn25n56lmf53kucsso474.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1R-dB5-9tZAAh_O_59fuyCJWZmJGGJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443615155767-8qutj0frdnqcn25n56lmf53kucsso474.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443615155767:android:e970f75c48dce6b78991b2",
+        "android_client_info": {
+          "package_name": "com.example.legal_assistant_chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443615155767-sggmh3n5ucij6r999hmsgkke373id15a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.legal_assistant_chatbot",
+            "certificate_hash": "e7b9fd5fb9ae1d5ae8f7cd0c3bfef3307b2c90c7"
+          }
+        },
+        {
+          "client_id": "443615155767-8qutj0frdnqcn25n56lmf53kucsso474.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1R-dB5-9tZAAh_O_59fuyCJWZmJGGJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443615155767-8qutj0frdnqcn25n56lmf53kucsso474.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
